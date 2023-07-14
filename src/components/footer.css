@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainpagecontent{
+    position: absolute;
+    top: 250px;
+    margin-left: 500px;
+}
